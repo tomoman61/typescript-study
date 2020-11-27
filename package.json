@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tomoman61/typescript-study/issues"
   },
-  "homepage": "https://github.com/tomoman61/typescript-study#readme"
+  "homepage": "https://github.com/tomoman61/typescript-study#readme",
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
 }
